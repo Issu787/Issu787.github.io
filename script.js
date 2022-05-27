@@ -1,5 +1,5 @@
 const data = {
-  mainTitle: "I LOVE YOU SABHA AFREEN ",
+  mainTitle: "My Fav",
   cardContents: [
     {
       name: "Gulab Jamun",
